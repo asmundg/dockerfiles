@@ -17,7 +17,7 @@ RUN apt-get update && \
     python-dev \
     python-gi-cairo \
     python-gobject \
-    python-pip
+    python-pip \
     tesseract-ocr \
     tesseract-ocr-eng \
     tesseract-ocr-nor && \
